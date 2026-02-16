@@ -9,7 +9,7 @@ function onFormSubmit(e) {
     htmlBody:  `<p>Hi ${name},</p>
     <p>Thanks for your request about <b>${service}</b>.</p>
     <p>We'll be in touch soon.</p>
-    <p>Best,<br>{{Name}}</p>`
+    <p>Best,<br>{{YOUR_NAME}}</p>`
   });
 
 
